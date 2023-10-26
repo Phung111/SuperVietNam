@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Pham_Huynh_Thien_Phung/static/css/main.a984863d.css",
-    "main.js": "/Pham_Huynh_Thien_Phung/static/js/main.c21439ca.js",
-    "static/media/Futurism.otf": "/Pham_Huynh_Thien_Phung/static/media/Futurism.f541ffa7fe34e0b390cf.otf",
-    "index.html": "/Pham_Huynh_Thien_Phung/index.html",
-    "main.a984863d.css.map": "/Pham_Huynh_Thien_Phung/static/css/main.a984863d.css.map",
-    "main.c21439ca.js.map": "/Pham_Huynh_Thien_Phung/static/js/main.c21439ca.js.map"
+    "main.css": "/SuperVietNam/static/css/main.24895cd5.css",
+    "main.js": "/SuperVietNam/static/js/main.c21439ca.js",
+    "static/media/Futurism.otf": "/SuperVietNam/static/media/Futurism.f541ffa7fe34e0b390cf.otf",
+    "index.html": "/SuperVietNam/index.html",
+    "main.24895cd5.css.map": "/SuperVietNam/static/css/main.24895cd5.css.map",
+    "main.c21439ca.js.map": "/SuperVietNam/static/js/main.c21439ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.a984863d.css",
+    "static/css/main.24895cd5.css",
     "static/js/main.c21439ca.js"
   ]
 }
